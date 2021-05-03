@@ -5,7 +5,7 @@ I am learning Java, Android, Kotlin in my free time, like music and playing guit
 Created a program for online store, for their couriers. This is a tool, that can to notificate office workers about state of orders. In this program I used OkHttp,  RxJava, Room, JSch library.
 Android development is interested for me, and I want to get more knowledge’s in this area.
 
-4. Android, Java, Kotlin, MVVM, Android Architecture Components, Retrofit, RxJava, JSON.
+4. Android, Java, Kotlin, MVVM, Android Architecture Components, Retrofit, RxJava, JSON, git.
 5. https://github.com/xYANx/BrightDay
 6. Created a program for online store, took part in development application, in which users can to sale their own things - 4 month experience. Created mini-games for online-casino.
 7. 2020	It-academy, Android development
